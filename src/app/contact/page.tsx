@@ -77,7 +77,7 @@ export default function Contact() {
             Get In Touch
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            I'm always interested in new opportunities and exciting projects. 
+            I&apos;m always interested in new opportunities and exciting projects. 
             Whether you have a question or just want to say hi, feel free to reach out!
           </p>
         </div>
@@ -115,10 +115,10 @@ export default function Contact() {
             {/* Additional Info */}
             <div className="mt-12 bg-white rounded-xl p-6 shadow-lg">
               <h3 className="text-lg font-semibold text-gray-900 mb-4">
-                Let's Work Together
+                Let&apos;s Work Together
               </h3>
               <p className="text-gray-600 mb-4">
-                I'm currently available for:
+                I&apos;m currently available for:
               </p>
               <ul className="space-y-2 text-gray-600">
                 <li className="flex items-center gap-2">
@@ -155,7 +155,7 @@ export default function Contact() {
                     Message Sent!
                   </h3>
                   <p className="text-gray-600">
-                    Thank you for reaching out. I'll get back to you soon!
+                    Thank you for reaching out. I&apos;ll get back to you soon!
                   </p>
                 </div>
               ) : (

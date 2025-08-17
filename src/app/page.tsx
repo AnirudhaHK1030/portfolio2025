@@ -56,7 +56,7 @@ export default function Home() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="animate-slide-in-left">
               <h1 className="text-5xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
-                Hi, I'm{" "}
+                Hi, I&apos;m{" "}
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-600">
                   Anirudha Kyathsandra
                 </span>
@@ -129,8 +129,8 @@ export default function Home() {
                 maintainable code and staying up-to-date with the latest technologies and best practices.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
-                When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, 
-                or mentoring other developers. I'm always excited to take on new challenges and learn from every experience.
+                When I&apos;m not coding, you can find me exploring new technologies, playing sports, 
+                or mentoring other developers. I&apos;m always excited to take on new challenges and learn from every experience.
               </p>
             </div>
             <div className="animate-fade-in">
@@ -211,8 +211,8 @@ export default function Home() {
               Ready to Work Together?
             </h2>
             <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-              I'm always interested in new opportunities and exciting projects. 
-              Let's discuss how we can collaborate to bring your ideas to life.
+              I&apos;m always interested in new opportunities and exciting projects. 
+              Let&apos;s discuss how we can collaborate to bring your ideas to life.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link

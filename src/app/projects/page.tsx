@@ -234,8 +234,8 @@ const ProjectsPage = () => {
               Interested in Working Together?
             </h3>
             <p className="text-gray-600 mb-6">
-              I'm always excited to take on new challenges and collaborate on interesting projects. 
-              Let's discuss how we can work together!
+              I&apos;m always excited to take on new challenges and collaborate on interesting projects. 
+              Let&apos;s discuss how we can work together!
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link

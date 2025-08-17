@@ -160,8 +160,8 @@ export default function Chatbot() {
             AI Assistant
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Ask me anything about Anirudha's background, skills, experience, and projects. 
-            I'm here to help you learn more about him!
+            Ask me anything about Anirudha&apos;s background, skills, experience, and projects. 
+            I&apos;m here to help you learn more about him!
           </p>
         </div>
 
@@ -174,7 +174,7 @@ export default function Chatbot() {
                 <Bot className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h3 className="text-white font-semibold">Anirudha's AI Assistant</h3>
+                <h3 className="text-white font-semibold">Anirudha&apos;s AI Assistant</h3>
                 <p className="text-blue-100 text-sm">Online • Ready to help</p>
               </div>
             </div>
@@ -288,7 +288,7 @@ export default function Chatbot() {
               <Lightbulb className="w-8 h-8 text-purple-600" />
             </div>
             <h3 className="text-xl font-semibold text-gray-900 mb-2">Projects</h3>
-            <p className="text-gray-600">Explore the innovative solutions I've built and contributed to</p>
+            <p className="text-gray-600">Explore the innovative solutions I&apos;ve built and contributed to</p>
           </div>
         </div>
       </div>
