@@ -119,7 +119,7 @@ export default function Home() {
                 About Me
               </h2>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                I'm a dedicated software engineer with a strong foundation in computer science and 
+                I&apos;m a dedicated software engineer with a strong foundation in computer science and 
                 a passion for creating innovative solutions. With experience in both technical development 
                 and team leadership, I bring a unique perspective to every project.
               </p>
