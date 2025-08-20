@@ -65,7 +65,7 @@ export default function Experience() {
       title: "Software Engineering Intern",
       company: "John Deere",
       location: "Des Moines, IA",
-      period: "May 2022 - Dec 2022",
+      period: "July 2022 - Dec 2022",
       description: "Developed automated image detection and injection systems for agricultural applications.",
       technologies: ["C++", "OpenCV", "CUDA", "Linux", "Real-time Systems"],
       achievements: [
@@ -80,7 +80,7 @@ export default function Experience() {
       title: "Software Engineer Intern",
       company: "John Deere",
       location: "Des Moines, IA",
-      period: "May 2021 - Jul 2021",
+      period: "May 2022 - Jul 2022",
       description: "Built automated testing pipelines to improve engineering productivity.",
       technologies: ["Python", "Jenkins", "Git", "Linux"],
       achievements: [
